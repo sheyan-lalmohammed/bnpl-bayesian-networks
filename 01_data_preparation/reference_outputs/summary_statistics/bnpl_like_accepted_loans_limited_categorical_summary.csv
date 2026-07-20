@@ -1,0 +1,80 @@
+column,total_count,unique_categories,mode,mode_count
+id,297291,297291,68407277,1
+member_id,297291,1,,297291
+term,297291,1, 36 months,297291
+grade,297291,7,B,94266
+sub_grade,297291,35,B5,21664
+emp_title,297291,96027,,34521
+emp_length,297291,12,10+ years,83488
+home_ownership,297291,6,RENT,146937
+verification_status,297291,3,Not Verified,119514
+issue_d,297291,139,2017-08-01 00:00:00,7645
+loan_status,297291,9,Fully Paid,151789
+pymnt_plan,297291,2,n,297258
+url,297291,297291,https://lendingclub.com/browse/loanDetail.action?loan_id=68407277,1
+desc,297291,15019,,282189
+purpose,297291,14,debt_consolidation,117502
+title,297291,12719,Debt consolidation,106534
+zip_code,297291,894,112xx,3520
+addr_state,297291,51,CA,39802
+earliest_cr_line,297291,684,Sep-2005,2197
+initial_list_status,297291,2,w,183510
+last_pymnt_d,297291,137,2019-03-01 00:00:00,110289
+next_pymnt_d,297291,79,,180042
+last_credit_pull_d,297291,139,2019-03-01 00:00:00,181069
+application_type,297291,2,Individual,288028
+verification_status_joint,297291,4,,288135
+revol_bal_joint,297291,8058,,288467
+sec_app_fico_range_low,297291,60,,288467
+sec_app_fico_range_high,297291,60,,288467
+sec_app_earliest_cr_line,297291,527,,288467
+sec_app_inq_last_6mths,297291,8,,288467
+sec_app_mort_acc,297291,14,,288467
+sec_app_open_acc,297291,48,,288467
+sec_app_revol_util,297291,1095,,288926
+sec_app_open_act_il,297291,35,,288467
+sec_app_num_rev_accts,297291,61,,288467
+sec_app_chargeoff_within_12_mths,297291,15,,288467
+sec_app_collections_12_mths_ex_med,297291,13,,288467
+sec_app_mths_since_last_major_derog,297291,108,,293569
+hardship_flag,297291,2,N,297247
+hardship_type,297291,2,,296594
+hardship_reason,297291,10,,296594
+hardship_status,297291,4,,296594
+hardship_start_date,297291,26,,296594
+hardship_end_date,297291,28,,296594
+payment_plan_start_date,297291,27,,296594
+hardship_loan_status,297291,6,,296594
+disbursement_method,297291,2,Cash,291480
+debt_settlement_flag,297291,2,N,293941
+debt_settlement_flag_date,297291,67,,293941
+settlement_status,297291,4,,293941
+settlement_date,297291,74,,293941
+loan_status_label,297291,1,accepted,297291
+issue_quarter,297291,47,2017Q3,20561
+open_acc_6m,50000,1,,50000
+open_act_il,50000,1,,50000
+open_il_12m,50000,1,,50000
+open_il_24m,50000,1,,50000
+mths_since_rcnt_il,50000,1,,50000
+total_bal_il,50000,1,,50000
+il_util,50000,1,,50000
+open_rv_12m,50000,1,,50000
+open_rv_24m,50000,1,,50000
+max_bal_bc,50000,1,,50000
+all_util,50000,1,,50000
+inq_fi,50000,1,,50000
+total_cu_tl,50000,1,,50000
+inq_last_12m,50000,1,,50000
+annual_inc_joint,40000,1,,40000
+dti_joint,40000,1,,40000
+deferral_term,50000,1,,50000
+hardship_amount,50000,1,,50000
+hardship_length,50000,1,,50000
+hardship_dpd,50000,1,,50000
+orig_projected_additional_accrued_interest,50000,1,,50000
+hardship_payoff_balance_amount,50000,1,,50000
+hardship_last_payment_amount,50000,1,,50000
+settlement_amount,10000,1,,10000
+settlement_percentage,10000,1,,10000
+settlement_term,10000,1,,10000

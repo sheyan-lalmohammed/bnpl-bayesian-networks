@@ -1,0 +1,14 @@
+purpose(car),0.026160874763065934
+purpose(credit_card),0.1612766719491314
+purpose(debt_consolidation),0.41396410540724876
+purpose(educational),0.0011354028165512869
+purpose(home_improvement),0.08591977849628023
+purpose(house),0.005743249320884381
+purpose(major_purchase),0.045920236418914184
+purpose(medical),0.03385969904670322
+purpose(moving),0.024369252457654433
+purpose(other),0.15518057688439257
+purpose(renewable_energy),0.0019195953272266085
+purpose(small_business),0.012033961505060866
+purpose(vacation),0.029566674353225176
+purpose(wedding),0.002949921253661338

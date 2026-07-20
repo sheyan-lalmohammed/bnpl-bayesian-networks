@@ -1,0 +1,7 @@
+age_group(65+).530,age_group(34-40).396,age_group(18-24).1929,age_group(51-64).681,age_group(34-40).3585
+emp_length(1 year),emp_length(1 year),emp_length(3 years),emp_length(10+ years),emp_length(6 years)
+grade(G),grade(E),grade(B),grade(B),grade(A)
+home_ownership(MORTGAGE),home_ownership(OWN),home_ownership(RENT),home_ownership(ANY),home_ownership(OWN)
+purpose(vacation),purpose(home_improvement),purpose(small_business),purpose(other),purpose(credit_card)
+0.5,0.5,0.7999961348673615,0.5,0.999987116390528
+0.5,0.5,0.2000038651326385,0.5,1.2883609472029682e-05

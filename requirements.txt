@@ -1,0 +1,19 @@
+# Core dependencies for the BNPL Bayesian Network replication package.
+# The notebooks use the pgmpy 1.x API (DiscreteBayesianNetwork, ExpertKnowledge,
+# pgmpy.estimators.StructureScore.{BIC,AIC,BDeu,BDs}). Install pgmpy >= 1.0.
+
+pgmpy>=1.0
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+networkx>=3.0
+matplotlib>=3.7
+
+# Notebook environment
+jupyterlab>=4.0
+notebook>=7.0
+
+# pgmpy pulls these in, listed explicitly for clarity
+scipy>=1.10
+statsmodels>=0.14
+torch>=2.0

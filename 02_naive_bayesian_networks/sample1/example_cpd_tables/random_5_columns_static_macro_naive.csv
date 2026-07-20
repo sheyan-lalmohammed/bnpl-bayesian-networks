@@ -1,0 +1,7 @@
+fedfunds_t1_disc(0.0).23,fedfunds_t1_disc(0.0).5,fedfunds_t1_disc(1.0).71,fedfunds_t1_disc(2.0).48,fedfunds_t1_disc(2.0).35
+gdp_growth_t1_disc(0.0),gdp_growth_t1_disc(0.0),gdp_growth_t1_disc(2.0),gdp_growth_t1_disc(1.0),gdp_growth_t1_disc(1.0)
+housing_price_t1_disc(2.0),housing_price_t1_disc(0.0),housing_price_t1_disc(1.0),housing_price_t1_disc(2.0),housing_price_t1_disc(0.0)
+inflation_t1_disc(1.0),inflation_t1_disc(1.0),inflation_t1_disc(2.0),inflation_t1_disc(1.0),inflation_t1_disc(2.0)
+unemployment_rate_t1_disc(2.0),unemployment_rate_t1_disc(2.0),unemployment_rate_t1_disc(2.0),unemployment_rate_t1_disc(0.0),unemployment_rate_t1_disc(2.0)
+0.5,0.5,0.5,0.5,0.5
+0.5,0.5,0.5,0.5,0.5
