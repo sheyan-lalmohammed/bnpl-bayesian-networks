@@ -3,7 +3,7 @@
 Replication package for the undergraduate thesis:
 
 > **Bayesian and Dynamic Bayesian Networks for Credit Risk Modeling in Buy Now, Pay Later**
-> Sheyan Lalmohammed — Wharton Research Scholars, The Wharton School, University of Pennsylvania (May 2025).
+> Sheyan Lalmohammed
 > Faculty Advisor: Paul Sabin.
 
 This repository contains the code and the (small) result and reference files needed to reproduce
